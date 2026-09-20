@@ -1,3 +1,5 @@
+> ARCHIVED 2026-09-20: built and published at https://github.com/Life696969/prompt-forge — the skill folder is canonical, do not edit this copy.
+
 # Skill brief: prompt-forge
 
 _Forged 2026-09-20 via idea-forge. Approved by Mudit._
